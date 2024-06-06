@@ -54,8 +54,8 @@
   /* text-shadow: 1px 1px 1px rgba(127, 127, 127, 0.3); */
 }
 
-.icon-alchemy:before { content: '\e800'; } /* '' */
 .icon-amritapool:before { content: '\e801'; } /* '' */
 .icon-selection:before { content: '\e803'; } /* '' */
 .icon-handbook:before { content: '\e804'; } /* '' */
 .icon-ignis:before { content: '\e805'; } /* '' */
+.icon-alchemy:before { content: '\e806'; } /* '' */
